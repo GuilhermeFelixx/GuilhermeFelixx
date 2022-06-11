@@ -4,6 +4,7 @@
 
 - Trabalho atualmente como QA 💻
 - Futuro Web & Mobile Developer 🌐 📱
+- Atualmente estudando JavaScript | TypeScript | Jest | Cypress
 
 <!---
 GuilhermeFelixx/GuilhermeFelixx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
